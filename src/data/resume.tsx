@@ -86,7 +86,6 @@ export const DATA = {
     },
   ],
   projects: [
-    
     {
       title: 'Amazon Sales & Customer Dashboards',
       href: 'https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/AmazonSalesCustomerDashboardsDynamic/CustomerDashboard',
@@ -114,7 +113,7 @@ export const DATA = {
       title: 'HR Dashboard',
       href: 'https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/HRDashboard_17412456484930/HRSummary',
       image:
-      'https://github.com/Parth-Sarathi02/Netflix-Dashboard/blob/main/Screenshot%202025-03-04%20000832.png?raw=true',
+        'https://github.com/Parth-Sarathi02/Netflix-Dashboard/blob/main/Screenshot%202025-03-04%20000832.png?raw=true',
       dates: 'May 2024',
       active: true,
       description:
@@ -122,30 +121,27 @@ export const DATA = {
       technologies: ['Python', 'Microsoft Excel', 'MySQL', 'Tableau'],
     },
     {
-    title: 'Sales and Customer Dashboard',
-    href: 'https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/SalesCustomerDashboardsProject_17209829830710/CustomerDashboard',
-    image:
-      'https://github.com/Parth-Sarathi02/Sales-and-Costumer-Dashboard/blob/main/Sales%20Dashboard.png?raw=true',
-    dates: 'Mar 2024',
-    active: true,
-    description:
-    'Developed sales and customer dashboards to analyze sales performance and customer trends, leading to a 25% increase in data processing efficiency.',
-    technologies: ['Python', 'Microsoft Excel', 'MySQL', 'Tableau'],
-  },
-  {
-    title: 'Sales Dashboard',
-    href: 'https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/SalesDashboard_17209825667380/SalesDashboard',
-    image:
-      'https://github.com/Parth-Sarathi02/Sales-and-Costumer-Dashboard/blob/main/Sales%20Dashboard.png?raw=true',
-    dates: 'Mar 2024',
-    active: true,
-    description:
-    'Developed sales and customer dashboards to analyze sales performance and customer trends, leading to a 25% increase in data processing efficiency.',
-    technologies: ['Python', 'Microsoft Excel', 'MySQL', 'Tableau'],
-  },
-
-    
-
+      title: 'Sales and Customer Dashboard',
+      href: 'https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/SalesCustomerDashboardsProject_17209829830710/CustomerDashboard',
+      image:
+        'https://github.com/Parth-Sarathi02/Sales-and-Costumer-Dashboard/blob/main/Sales%20Dashboard.png?raw=true',
+      dates: 'Mar 2024',
+      active: true,
+      description:
+        'Developed sales and customer dashboards to analyze sales performance and customer trends, leading to a 25% increase in data processing efficiency.',
+      technologies: ['Python', 'Microsoft Excel', 'MySQL', 'Tableau'],
+    },
+    {
+      title: 'Sales Dashboard',
+      href: 'https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/SalesDashboard_17209825667380/SalesDashboard',
+      image:
+        'https://github.com/Parth-Sarathi02/Sales-and-Costumer-Dashboard/blob/main/Sales%20Dashboard.png?raw=true',
+      dates: 'Mar 2024',
+      active: true,
+      description:
+        'Developed sales and customer dashboards to analyze sales performance and customer trends, leading to a 25% increase in data processing efficiency.',
+      technologies: ['Python', 'Microsoft Excel', 'MySQL', 'Tableau'],
+    },
   ],
   certifications: [
     {
