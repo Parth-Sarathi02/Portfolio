@@ -13,9 +13,12 @@ export const DATA = {
     'I am a Microsoft certified Data Analyst with a focus on uncovering insights to drive strategic decisions and improve business outcomes. Currently pursuing my B.Tech in Computer Science and Engineering at Swami Keshwanand Institute of Technology, Jaipur.',
   avatarUrl: '/me.jpg',
   skills: [
+    'C++',
     'Python',
     'C',
     'Data Structure and Algorithms',
+    'AI',
+    'ML',
     'HTML',
     'CSS',
     'Bootstrap',
@@ -83,12 +86,13 @@ export const DATA = {
     },
   ],
   projects: [
+    
     {
       title: 'Amazon Sales & Customer Dashboards',
       href: 'https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/AmazonSalesCustomerDashboardsDynamic/CustomerDashboard',
       image:
-        'https://raw.githubusercontent.com/Parth-Sarathi02/Sales-and-Costumer-Dashboard/refs/heads/main/Costumer%20Dashboard.png',
-      dates: 'June 2024',
+        'https://github.com/Parth-Sarathi02/Amazon-Dashboard/blob/main/Screenshot%202025-03-03%20235114.png?raw=true',
+      dates: 'Feb 2025',
       active: true,
       description:
         'Developed sales and customer dashboards to analyze sales performance and customer trends, leading to a 25% increase in data processing efficiency.',
@@ -97,47 +101,61 @@ export const DATA = {
     },
     {
       title: 'Netflix Project (Capstone Project)',
-      href: 'https://link-to-your-project.com',
+      href: 'https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/Netflixproject_17210701821940/Dashboard1',
       image:
         'https://github.com/Parth-Sarathi02/Netflix-Dashboard/blob/main/Screenshot%202025-03-04%20000832.png?raw=true',
-      dates: 'May 2024',
+      dates: 'Sept 2024',
       active: true,
       description:
         'Created a dashboard to analyze movies and TV shows on Netflix, improving user experience by 15% through user feedback analysis.',
       technologies: ['Python', 'Microsoft Excel', 'MySQL', 'Tableau'],
     },
-
     {
       title: 'HR Dashboard',
-      href: 'https://link-to-your-project.com',
+      href: 'https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/HRDashboard_17412456484930/HRSummary',
       image:
       'https://github.com/Parth-Sarathi02/Netflix-Dashboard/blob/main/Screenshot%202025-03-04%20000832.png?raw=true',
-      dates: 'Feb 2025',
+      dates: 'May 2024',
       active: true,
       description:
         'Amazon Dashboard for Sales and Customer insights, providing a comprehensive overview of key sales metrics and trends.',
       technologies: ['Python', 'Microsoft Excel', 'MySQL', 'Tableau'],
     },
-
     {
-      title: 'Amazon Dashboard',
-      href: 'https://link-to-your-project.com',
-      dates: 'Feb 2025',
-      active: true,
-      description:
-        'Amazon Dashboard for Sales and Customer insights, providing a comprehensive overview of key sales metrics and trends.',
-      technologies: ['Python', 'Microsoft Excel', 'MySQL', 'Tableau'],
-    },
+    title: 'Sales and Customer Dashboard',
+    href: 'https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/SalesCustomerDashboardsProject_17209829830710/CustomerDashboard',
+    image:
+      'https://github.com/Parth-Sarathi02/Sales-and-Costumer-Dashboard/blob/main/Sales%20Dashboard.png?raw=true',
+    dates: 'Mar 2024',
+    active: true,
+    description:
+    'Developed sales and customer dashboards to analyze sales performance and customer trends, leading to a 25% increase in data processing efficiency.',
+    technologies: ['Python', 'Microsoft Excel', 'MySQL', 'Tableau'],
+  },
+  {
+    title: 'Sales Dashboard',
+    href: 'https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/SalesDashboard_17209825667380/SalesDashboard',
+    image:
+      'https://github.com/Parth-Sarathi02/Sales-and-Costumer-Dashboard/blob/main/Sales%20Dashboard.png?raw=true',
+    dates: 'Mar 2024',
+    active: true,
+    description:
+    'Developed sales and customer dashboards to analyze sales performance and customer trends, leading to a 25% increase in data processing efficiency.',
+    technologies: ['Python', 'Microsoft Excel', 'MySQL', 'Tableau'],
+  },
+
+    
+
   ],
   certifications: [
     {
       title: 'Data Analysis by Microsoft',
-      href: 'https://link-to-certification.com',
+      href: 'https://drive.google.com/file/d/1kAVaVQ6nrpl8gIgiNOyqIhRcwZUdVxSR/view?usp=drive_link',
       date: 'May 14, 2024',
     },
     {
       title: 'Generative AI by LinkedIn Learning',
-      href: 'https://link-to-certification.com',
+      href: 'https://drive.google.com/file/d/1gDtMXt5d1yTffoECoE1fi66cLIRmmYQa/view?usp=drive_link',
       date: 'May 10, 2024',
     },
   ],
