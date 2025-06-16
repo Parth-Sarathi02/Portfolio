@@ -50,6 +50,18 @@ export const DATA = {
   ],
   work: [
     {
+ company: 'Pratham Software',
+      href: 'https://www.thepsi.com/',
+      location: 'Jaipur',
+      title: 'Data Analyst Intern',
+      // logoUrl: '/soumya-it-solution-logo.png', // Update with the correct logo
+      start: 'May 2025',
+      end: 'Present',
+      description:
+        'Working as a Data Analyst Intern at Prattham Software, where I developed interactive Tableau dashboards, performed data cleaning and analysis using Excel and SQL, and delivered insights to support business decisions. Focused on visualizing key metrics, automating reports, and enabling data-driven strategies.',
+    },
+    
+    {
       company: 'Soumya IT Solution',
       href: 'https://www.linkedin.com/company/soumya-it-solution/',
       location: 'Remote',
@@ -60,6 +72,8 @@ export const DATA = {
       description:
         'Worked on industrial tools like MySQL and Tableau. Consolidated large datasets using advanced Excel and SQL techniques, eliminating data redundancy. Collaborated with systems analysts, engineers, and programmers to understand limitations and resolve software problems.',
     },
+    
+     
     // Add other work experiences if needed
   ],
   education: [
@@ -86,6 +100,27 @@ export const DATA = {
     },
   ],
   projects: [
+     {
+      title: 'HR Attrition Analysis',
+      href: 'https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/HRAttritionAnalysis_17497584699790/Overview',
+      image:'https://github.com/Parth-Sarathi02/HR-Attrition-Analysis/blob/23572755433f5312b542886b660aa83d3b74c9dc/Screenshot%202025-06-16%20131027.png?raw=true',
+      dates: 'June 2025',
+      active: true,
+      description:
+        'Created an interactive Tableau dashboard to analyze employee attrition, job satisfaction, salary hikes, promotions, and departmental trends, enabling data-driven insights for improving workforce planning and retention strategies.',
+
+      technologies: ['Python', 'Microsoft Excel', 'MySQL', 'Tableau'],
+    },
+     {
+      title: 'SuperStore Dashboard',
+      href: 'https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/SuperStoreDashboard_17492904142290/SuperStoreDashboard',
+      image:'https://github.com/Parth-Sarathi02/SuperStore-Dashboard/blob/7a30d05efb6f75986d6bb733a93da1ddc25c14ac/Screenshot%202025-06-16%20121659.png?raw=true',
+      dates: 'May 2025',
+      active: true,
+      description:
+'created an interactive view of sales performance and key business metrics for a fictional retail company, based on the Superstore dataset. It enables stakeholders to quickly analyze and monitor regional sales, profits and product performance.',
+      technologies: ['Python', 'Microsoft Excel', 'MySQL', 'Tableau'],
+    },
     {
       title: 'Amazon Sales & Customer Dashboards',
       href: 'https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/AmazonSalesCustomerDashboardsDynamic/CustomerDashboard',
